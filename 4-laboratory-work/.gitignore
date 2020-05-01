@@ -1,0 +1,8 @@
+# Folders
+.idea
+bin
+obj
+
+# Files
+FunctionsInterpolation.csproj
+FunctionsInterpolation.sln
