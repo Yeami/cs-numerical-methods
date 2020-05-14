@@ -1,0 +1,9 @@
+# Folders
+.idea
+bin
+obj
+
+# Files
+NewtonsMethod.csproj
+NewtonsMethod.sln
+NewtonsMethod.sln.DotSettings.user
